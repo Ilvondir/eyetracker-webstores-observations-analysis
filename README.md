@@ -8,7 +8,7 @@ The research demonstrated that the grid layout is the least effective among the 
 
 As part of the research, a script was also created that displayed user observations on a given stimulus in a three-dimensional space. These plots are located in the plots folder, and [here you can see an example of one of them](https://raw.githubusercontent.com/Ilvondir/eyetracker-webstores-observations-analysis/master/plots/plot2.1.png), also from a [different perspective](https://raw.githubusercontent.com/Ilvondir/eyetracker-webstores-observations-analysis/master/plots/plot2.2.png).
 
-The research was conducted to fulfill the requirements of the course Selected Topics in Contemporary Computer Science in the Computer Science degree. The project was awarded a grade of 5.0 on a scale from 2 to 5.
+The research was conducted to fulfill the requirements of the university course Selected Topics in Contemporary Computer Science in the Computer Science degree. The project was awarded a grade of 5.0 on a scale from 2 to 5.
 
 ## Used Tools
 - Python 3.12.2
