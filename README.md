@@ -4,7 +4,9 @@ The research focused on analyzing observations collected using the SMI RED 500 e
 
 The data were processed using Python. Most of the data analysis was performed using the Pandas package. The results of the research were visualized using Plotly charts.
 
-The research demonstrated that the grid layout is the least effective among the possible product arrangements, as users viewing such a page pay attention to fewer products compared to the carousel and list layouts.
+The research demonstrated that the grid layout is the least effective among the possible product arrangements, as users viewing such a page pay attention to fewer products compared to the carousel and list layouts. The stimulants are in the files [Grid.png](https://raw.githubusercontent.com/Ilvondir/eyetracker-webstores-observations-analysis/master/Grid.png), [List.png](https://raw.githubusercontent.com/Ilvondir/eyetracker-webstores-observations-analysis/master/List.png) and [Carousel.png](https://raw.githubusercontent.com/Ilvondir/eyetracker-webstores-observations-analysis/master/Carousel.png).
+
+As part of the research, a script was also created that displayed user observations on a given stimulus in a three-dimensional space. These plots are located in the plots folder, and [here you can see an example of one of them](https://raw.githubusercontent.com/Ilvondir/eyetracker-webstores-observations-analysis/master/plots/plot2.1.png), also from a [different perspective](https://raw.githubusercontent.com/Ilvondir/eyetracker-webstores-observations-analysis/master/plots/plot2.2.png).
 
 The research was conducted to fulfill the requirements of the course Selected Topics in Contemporary Computer Science in the Computer Science degree. The project was awarded a grade of 5.0 on a scale from 2 to 5.
 
