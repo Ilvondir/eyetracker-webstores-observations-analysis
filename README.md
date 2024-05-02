@@ -11,10 +11,14 @@ As part of the research, a script was also created that displayed user observati
 The research was conducted to fulfill the requirements of the university course Selected Topics in Contemporary Computer Science in the Computer Science degree. The project was awarded a grade of 5.0 on a scale from 2 to 5.
 
 ## Used Tools
-- Python 3.12.2
-- Jupyter Notebook 6.29.4
-- Pandas 2.2.2
-- Plotly 5.21.0
+- Programming:
+  - Python 3.12.2
+  - Jupyter Notebook 6.29.4
+  - Pandas 2.2.2
+  - Plotly 5.21.0
+
+- Equipment:
+  - Eyetracker SMI RED 500
 
 ## Requirements
 
