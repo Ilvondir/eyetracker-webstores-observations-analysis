@@ -17,6 +17,8 @@ The research was conducted to fulfill the requirements of the university course 
 - Jupyter Notebook 6.29.4
 - Pandas 2.2.2
 - Plotly 5.21.0
+- Matplotlib 3.9.1
+- Numpy 2.0.1
 
 ### Equipment
 - Eyetracker SMI RED 500
@@ -30,5 +32,6 @@ For running the application you need:
 ## How to run
 
 1. Execute command `git clone https://github.com/Ilvondir/eyetracker-webstores-observations-analysis`.
-2. Run all cells in `analysis.ipynb`.
-3. Run all cells in `plots.ipynb`.
+2. Install required packages by `pip install -r requirements.txt`.
+3. Run all cells in `analysis.ipynb`.
+4. Run all cells in `plots.ipynb`.
