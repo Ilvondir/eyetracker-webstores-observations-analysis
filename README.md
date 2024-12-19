@@ -13,12 +13,12 @@ The research was conducted to fulfill the requirements of the university course 
 ## Used Tools
 
 ### Programming
-- Python 3.12.2
-- Jupyter Notebook 6.29.4
+- Python 3.11.2
+- Jupyter Notebook 6.29.5
 - Pandas 2.2.2
-- Plotly 5.21.0
-- Matplotlib 3.9.1
-- Numpy 2.0.1
+- Plotly 5.24.1
+- Matplotlib 3.10.0
+- Numpy 2.2.0
 
 ### Equipment
 - Eyetracker SMI RED 500
